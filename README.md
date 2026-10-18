@@ -347,5 +347,5 @@ SELECT * FROM databricks_worksoace.gold.hospital_daily_summary ORDER BY summary_
 
 ## Author
 
-**<Your name>**: Azure Data Engineer
+**Michale Johnson**: Azure Data Engineer
 [LinkedIn](#) · [GitHub](#)
